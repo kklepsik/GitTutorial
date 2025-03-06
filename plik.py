@@ -1,3 +1,6 @@
 print('Hello World')
 print("kolega")
 print('test')
+print('test')
+print('test2')
+print('test3')
